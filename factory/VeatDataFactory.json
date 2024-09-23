@@ -1,0 +1,9 @@
+{
+	"name": "VeatDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca094a1d-cbc2-48fb-ba9a-fb136dcf5bad",
+		"tenantId": "61070004-a679-4f4d-86ce-4f35570558f0"
+	}
+}
